@@ -14,5 +14,5 @@
 ### Roles
 
 | Role | Username | Password |
-|------|----------|----------|------------|
+|------|----------|----------|
 | **Admin** | `user.admin@gmail.com` | `admin123` |
